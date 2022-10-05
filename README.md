@@ -1,5 +1,5 @@
-### Hola Soy Teresa 👋
-<img src="https://github.com/therhessa/therhessa/blob/main/web-gd8b91ce01_640.png"  width="100%" height="50%"> 
+<p align="center">### Hola Soy Teresa 👋</p>
+<img src="https://github.com/therhessa/therhessa/blob/main/web-gd8b91ce01_640.png"  width="100%" > 
 
 
 
