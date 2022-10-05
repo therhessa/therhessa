@@ -1,6 +1,8 @@
 <h1 align="center"> Hola Soy Teresa 👋</h1>
 <img src="https://github.com/therhessa/therhessa/blob/main/web-gd8b91ce01_640.png"  width="100%" > 
 
+<p> Hola, soy desarrolladora web, me </p>
+
 
 
 <!--
