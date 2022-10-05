@@ -1,6 +1,7 @@
 ### Hola Soy Teresa 👋
+<img src="https://github.com/therhessa/therhessa/blob/main/web-gd8b91ce01_640.png" width="30px"> Nice to Meet You.:blush:
 
-(https://github.com/therhessa/therhessa/blob/main/web-gd8b91ce01_640.png)
+
 
 <!--
 **therhessa/therhessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
